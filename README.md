@@ -4,7 +4,7 @@
 
 <p align="left">
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" />
+ <img align="right" alt="GIF" https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif />
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Indra Gandhi National Open University.
