@@ -20,11 +20,11 @@
 <br/>
 <h3>🛠 Tech Stack</h3>
 <p>
-- 💻 &nbsp; Python <br/>
+- 💻 &nbsp; Python  <br/>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Next.js | Tailwind<br/>
 - 🛢 &nbsp; MongoDB | PostgreSQL <br/>
-- 🔧 &nbsp; Git | Markdown <br/>
-- 🖥 &nbsp; Figma | Photoshop | Adobe XD <br/>
+- 🔧 &nbsp; Git | Markdown | Gitlab<br/>
+- 🖥 &nbsp; Figma | Photoshop | Adobe XD | Adobe Illustrator | <br/>
  </p>
 <br/>
 <br/>
