@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <p align="left">
- <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+ <img align="right" alt="GIF" src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" />
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Indra Gandhi National Open University.
