@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 <p>
 - 💻 &nbsp; Python  <br/>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |  React.JS | Next.js | Tailwind | Shopify <br/>>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |  React.JS | Next.js | Tailwind | Shopify <br/>
 - 🔧 &nbsp; Git | Markdown | Gitlab<br/>
 - 🖥 &nbsp; Figma | Photoshop | Adobe XD | Adobe Illustrator | <br/>
  </p>
