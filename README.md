@@ -9,7 +9,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Indra Gandhi National Open University.
 - 🌱 &nbsp; Learning more about Web Technologies and Web Design.
-- 💼 &nbsp; Working as a freelancer.
 - 🗻 &nbsp; Exploring the beautiful mountains as hobby.
 </p>
 <br/>
