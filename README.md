@@ -14,15 +14,11 @@
 </p>
 <br/>
 <br/>
-<h3> :bell: Current Status </h3>
-- :mega: &nbsp; Looking for a job as junior Frontend Developer.
-<br/>
 <br/>
 <h3>🛠 Tech Stack</h3>
 <p>
 - 💻 &nbsp; Python  <br/>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Next.js | Tailwind<br/>
-- 🛢 &nbsp; MongoDB | PostgreSQL <br/>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |  React.JS | Next.js | Tailwind | Shopify <br/>>
 - 🔧 &nbsp; Git | Markdown | Gitlab<br/>
 - 🖥 &nbsp; Figma | Photoshop | Adobe XD | Adobe Illustrator | <br/>
  </p>
