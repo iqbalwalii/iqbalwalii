@@ -13,7 +13,10 @@
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
   </a>
   <a href="https://github.com/iqbalwalii?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/iqbalwali?color=green&logo=github">
+  </a>
+  <a href="https://twitter.com/iqbalwalii">
+    <img alt="twitter" src="https://img.shields.io/twitter/follow/:iqbalwalii">
   </a>
 </p>
 <br/>
