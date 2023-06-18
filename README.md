@@ -23,6 +23,9 @@
  </p>
 <br/>
 <br/>
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+</div>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalwalii&show_icons=true)](https://github.com/iqbalwalii)
 
