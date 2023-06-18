@@ -18,6 +18,15 @@
   <a href="https://twitter.com/iqbalwalii">
     <img alt="twitter" src="https://img.shields.io/twitter/follow/:iqbalwalii">
   </a>
+  <p align="left">
+
+ <img align="right" alt="GIF" src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' />
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Indra Gandhi National Open University.
+- 🌱 &nbsp; Learning more about Web Technologies and Web Design.
+- 🗻 &nbsp; Exploring the beautiful mountains as hobby.
+</p>
 </p>
 <br/>
 <br/>
