@@ -3,13 +3,18 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 <p align="left">
-
- <img align="right" alt="GIF" src='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' />
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Indra Gandhi National Open University.
-- 🌱 &nbsp; Learning more about Web Technologies and Web Design.
-- 🗻 &nbsp; Exploring the beautiful mountains as hobby.
+  <a href="https://github.com/iqbalwalii/iqbalwalii">
+    <img src="https://komarev.com/ghpvc/?username=iqbalwalii" alt="page views" />
+  </a>
+  <a href="https://stackoverflow.com/users/10011881/john-weak">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/iqbalwali">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/iqbalwalii?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
 </p>
 <br/>
 <br/>
